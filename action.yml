@@ -1,4 +1,4 @@
-name: Auto-Rebase-PulRequests
+name: Auto-Rebase-PullRequests
 author: Timothée Dorand <timothee.dorand@ninox.com>
 description: Automatically keep pull requests without auto-merged enabled up to date with their base branch.
 inputs:
