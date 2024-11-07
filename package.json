@@ -1,6 +1,6 @@
 {
-  "name": "auto-update",
-  "version": "2.2.1",
+  "name": "auto-rebase",
+  "version": "1.0",
   "license": "MIT",
   "type": "module",
   "files": [
